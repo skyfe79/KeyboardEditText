@@ -4,7 +4,7 @@
 
 # KeyboardEditText
 
-KeyboardEditText provides keyboard's show and hide event listener for you. You can catch the event and process something whatever you want to.
+KeyboardEditText provides keyboard's shown and hidden event listener for you. You can catch the event and process something whatever you want to.
 
 ![](art/running.gif)
 

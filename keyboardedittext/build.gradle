@@ -15,7 +15,7 @@ publish {
     groupId = 'kr.pe.burt.android.lib'
     artifactId = 'keyboardedittext'
     publishVersion = '0.0.1'
-    desc = 'keyboardedittext is keyboardedittext'
+    desc = 'KeyboardEditText provides keyboard\'s show and hide event listener for you.'
     website = 'https://github.com/skyfe79/KeyboardEditText'
 }
 
@@ -27,7 +27,7 @@ android {
         minSdkVersion 9
         targetSdkVersion 23
         versionCode 1
-        versionName "0.0.01"
+        versionName "0.0.1"
     }
     buildTypes {
         release {

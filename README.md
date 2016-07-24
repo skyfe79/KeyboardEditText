@@ -13,7 +13,7 @@ KeyboardEditText provides keyboard's shown and hidden event listener for you. Yo
 ```groovy
 dependencies {
     ...
-    compile 'kr.pe.burt.android.lib.keyboardedittext:0.0.1'
+    compile 'kr.pe.burt.android.lib:keyboardedittext:0.0.1'
 }
 ```
 
